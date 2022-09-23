@@ -1,0 +1,8 @@
+name: Secure Edu
+filePrefix: SE
+tickets:
+  github:
+    repo: '#todo'
+    token: '#todo'
+    username: '#todo'
+approvedBranch: ""
